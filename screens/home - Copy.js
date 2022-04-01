@@ -20,7 +20,7 @@ export default function Home({navigation}) {
   return (
     <View style={styles.container}>
       <View style={styles.header}>
-        <Text style={styles.headerText}>Test 3</Text>
+        <Text style={styles.headerText}>Test 3asdasd</Text>
       </View>
 
       <FlatList 
