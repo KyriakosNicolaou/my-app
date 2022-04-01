@@ -7,7 +7,7 @@ export default function Home({navigation}) {
     { name: 'New game using one device', link: "OneDeviceSettings", key:'1' },
     { name: 'New game using multiple devices', link: "MultyDeviceSettings", key:'2'},
     { name: 'Load previous game', link: "LoadGame", key:'3'},
-    { name: 'Test', link: "Walkthrough", key:'4'},
+    { name: 'Walkthrough', link: "Walkthrough", key:'4'},
   ]);
 
   const pressHandler = (link) =>{
