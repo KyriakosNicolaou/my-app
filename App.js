@@ -1,8 +1,8 @@
 import React from 'react';
-import Navigator from './routes/homeStack';
+import Screen from './screens/qa';
 
 export default function App() {
   return (
-    <Navigator />
+    <Screen />
   );
 }
