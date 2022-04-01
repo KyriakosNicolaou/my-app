@@ -12,7 +12,7 @@ export default function Home({navigation}) {
 
   const pressHandler = (link) =>{
     console.log(link);
-
+    test
     navigation.push(link);
   }
 
